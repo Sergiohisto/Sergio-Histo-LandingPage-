@@ -1,8 +1,15 @@
-# React + Vite
+#LANDIG PAGE 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+SERGIO HISTO 
 
-Currently, two official plugins are available:
+![Captura de Pantalla 2023-10-31 a la(s) 12 45 43 p m](https://github.com/Sergiohisto/Sergio-Histo-LandingPage-/assets/119264858/0607e4ce-1b16-4f49-b7d1-25185a36451c)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+Vercel Vite 
+FireBase 
+
+Link 
+
+https://landingpageser.web.app/
+
+![Captura de Pantalla 2023-10-31 a la(s) 12 45 56 p m](https://github.com/Sergiohisto/Sergio-Histo-LandingPage-/assets/119264858/e842a053-2506-4bdf-87c8-52da91c40518)
